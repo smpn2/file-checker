@@ -10,3 +10,13 @@
 
 # Output of the go coverage tool, specifically when used with LiteIDE
 *.out
+
+# IDE Folder
+.idea*
+.vscode*
+
+# build
+*build/*
+*build/*
+*.exe
+*.bat
