@@ -9,7 +9,7 @@ import (
 	"encoding/json"
 	"encoding/xml"
 	"errors"
-	"file-checker/filestruct"
+	"github.com/littlecxm/file-checker/filestruct"
 	"fmt"
 	"golang.org/x/net/html/charset"
 	"io"
